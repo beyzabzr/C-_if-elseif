@@ -1,0 +1,14 @@
+C:\Users\beyza\Desktop\C#\if-elseif\bin\Debug\net7.0\if-elseif.exe
+C:\Users\beyza\Desktop\C#\if-elseif\bin\Debug\net7.0\if-elseif.deps.json
+C:\Users\beyza\Desktop\C#\if-elseif\bin\Debug\net7.0\if-elseif.runtimeconfig.json
+C:\Users\beyza\Desktop\C#\if-elseif\bin\Debug\net7.0\if-elseif.dll
+C:\Users\beyza\Desktop\C#\if-elseif\bin\Debug\net7.0\if-elseif.pdb
+C:\Users\beyza\Desktop\C#\if-elseif\obj\Debug\net7.0\if-elseif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beyza\Desktop\C#\if-elseif\obj\Debug\net7.0\if-elseif.AssemblyInfoInputs.cache
+C:\Users\beyza\Desktop\C#\if-elseif\obj\Debug\net7.0\if-elseif.AssemblyInfo.cs
+C:\Users\beyza\Desktop\C#\if-elseif\obj\Debug\net7.0\if-elseif.csproj.CoreCompileInputs.cache
+C:\Users\beyza\Desktop\C#\if-elseif\obj\Debug\net7.0\if-elseif.dll
+C:\Users\beyza\Desktop\C#\if-elseif\obj\Debug\net7.0\refint\if-elseif.dll
+C:\Users\beyza\Desktop\C#\if-elseif\obj\Debug\net7.0\if-elseif.pdb
+C:\Users\beyza\Desktop\C#\if-elseif\obj\Debug\net7.0\if-elseif.genruntimeconfig.cache
+C:\Users\beyza\Desktop\C#\if-elseif\obj\Debug\net7.0\ref\if-elseif.dll
